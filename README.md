@@ -53,6 +53,8 @@ radiology-throughput-analysis/
 ├── images/
 └── references
 
+---
+
 ## Future Improvements
 
 Potential future enhancements for this project include:
