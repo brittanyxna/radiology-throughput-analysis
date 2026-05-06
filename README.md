@@ -67,4 +67,25 @@ Potential future enhancements for this project include:
 - Comparing inpatient and outpatient imaging workflows
 - Integrating machine learning techniques for throughput forecasting
 
+- ---
+
+## Visualizations
+
+### CT Wait Time Averages
+![CT Wait Times](Images/ct_wait_times_average.png)
+
+### CT vs MRI Procedure Volume
+![Procedure Volume](Images/procedure_volume_ct_vs.mri.png)
+
+### Quarterly Wait Time Comparison
+![Quarterly Wait Times](Images/quarter_modality_waittime.png)
+
+### Throughput Comparison
+![Throughput Comparison](Images/throughput_comparison1.png)
+
+### Date and Modality Wait Time Trends
+![Date Modality Wait Time](Images/date_modality_waittime.png)
+
+---
+
 
