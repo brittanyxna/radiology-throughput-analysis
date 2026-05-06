@@ -52,3 +52,13 @@ radiology-throughput-analysis/
 ├── data/
 ├── images/
 └── references
+
+## Future Improvements
+
+Potential future enhancements for this project include:
+
+- Incorporating real-world hospital imaging datasets
+- Expanding analysis across multiple healthcare facilities
+- Developing predictive models for patient wait times
+- Comparing inpatient and outpatient imaging workflows
+- Integrating machine learning techniques for throughput forecasting
