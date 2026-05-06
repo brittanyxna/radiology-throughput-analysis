@@ -57,6 +57,7 @@ radiology-throughput-analysis/
 
 ## Future Improvements
 
+```text
 Potential future enhancements for this project include:
 
 - Incorporating real-world hospital imaging datasets
